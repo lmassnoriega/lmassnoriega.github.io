@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+<link rel="shortcut icon" href="/favicon.png">
